@@ -2,7 +2,7 @@
 ______________________________________________________________________________________________________________________________________________
                                                              Frontend Web Developer
 
-![Profile views](https://komarev.com/ghpvc/?username=Ravipethani01&label=Profile%20views&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=Ravipethani01&label=Profile%20views&color=brightblue)
 
 <!--
 **Ravipethani01/Ravipethani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
