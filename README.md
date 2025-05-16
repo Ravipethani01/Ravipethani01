@@ -1,6 +1,8 @@
-##                                                          Hi 👋, I'm Ravi Pethani
+# Hi there 👋
+
+## <p align="center">  Hi 👋, I'm Ravi Pethani </p>
                                                          
-###                                                         Frontend Web Developer
+### <p align="center"> Frontend Web Developer </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ravipethani01&label=Profile%20views&color=blue)
 
