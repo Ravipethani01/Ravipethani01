@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi 👋, I'm Ravi Pethani
+
+Frontend Web Developer
+
+![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=brightgreen)
 
 <!--
 **Ravipethani01/Ravipethani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
