@@ -1,6 +1,6 @@
-# Hi there 👋
+### Hi there 👋
 
-## <p align="center">  Hi 👋, I'm Ravi Pethani </p>
+# <p align="center">  Hi 👋, I'm Ravi Pethani </p>
                                                          
 ### <p align="center"> Frontend Web Developer </p>
 
