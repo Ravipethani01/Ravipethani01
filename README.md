@@ -1,12 +1,11 @@
 ##                                                          Hi 👋, I'm Ravi Pethani
-______________________________________________________________________________________________________________________________________________
                                                          
 ###                                                         Frontend Web Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ravipethani01&label=Profile%20views&color=blue)
 
 ## About Me 🚀
-______________________________________________________________________________________________________________________________________________
+🎓I’m Recently completed my B.Tech IT at Parul University and eager to apply my frontend web development skills. Passionate about creating innovative and responsive applications.
 <!--
 **Ravipethani01/Ravipethani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
